@@ -1,3 +1,6 @@
+'''
+Redondear decimales
+'''
 def redondear_a_dos_decimales(numero):
     return format(round(numero, 2), '.2f')
 
