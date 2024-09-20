@@ -1,3 +1,7 @@
+'''
+Convertidor de USD => CNY
+'''
+
 def convert_usd_to_cny(usd):
     # Tasa de conversión (puedes actualizarla según la tasa actual)
     conversion_rate = 6.4  # Ejemplo de tasa de conversión
