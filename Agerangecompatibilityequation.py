@@ -1,3 +1,6 @@
+'''
+Calcula rango de edad
+'''
 import math
 
 
