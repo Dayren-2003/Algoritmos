@@ -1,3 +1,6 @@
+'''
+Calcular mangos por kilo
+'''
 def costo_mangos(cantidad, precio_por_mango):
     # Calculamos cuántos mangos se pagan
     mangos_a_pagar = (cantidad // 3) * 2 + (cantidad % 3)
