@@ -1,3 +1,7 @@
+'''
+Calcular edad de perros y gatos a edad humana
+'''
+
 def calculate_age(human_years):
     if human_years < 1:
         return None  # Debe ser un valor mayor o igual a 1
