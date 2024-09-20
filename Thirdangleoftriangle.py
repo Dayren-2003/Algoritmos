@@ -1,3 +1,6 @@
+'''
+CALCULAR EL TERCER ANGULO DE UN TRIANGULO
+'''
 def calculate_third_angle(angle1, angle2):
     # La suma de los ángulos de un triángulo es 180 grados
     third_angle = 180 - (angle1 + angle2)
