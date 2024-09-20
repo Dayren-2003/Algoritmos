@@ -1,3 +1,6 @@
+'''
+Puntos por juego y minutos
+'''
 def extrapolar_ppg(ppg, mpg):
     if ppg == 0:
         return 0.0
